@@ -2,7 +2,7 @@
 
 Academic project for Software Engeneering class, created in a group.
 
-Hau! is an Android application created with Kotlin using Android Studio and implements Firebase integration. It's a tool for dog owners who enjoy spending time in dog parks. It's main purpose is to coordinate visits in parks with other, previously met people. It also serves as warning system, that inform others about any dangers in Parks. 
+Hau! is an Android application created with Kotlin using Android Studio and Firebase integration. It's a tool for dog owners who enjoy spending time in dog parks. It's main purpose is to coordinate visits in parks with other, previously met people. It also serves as warning system, informing others about possible hazards in any green area.
 
 ## Features:
 
@@ -24,4 +24,4 @@ Hau! is an Android application created with Kotlin using Android Studio and impl
 ## Technical background 
 Kotlin, Firebase
 
-*In later phase od development no new changes have beed added to GitHub, files does not represent final version*
+*In later phase of development no new changes have beed added to GitHub, files does not represent final version*
